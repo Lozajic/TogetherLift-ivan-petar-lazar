@@ -4,5 +4,5 @@ Mini web prodavnica
 TogetherLift
 Sportska oprema
 Ovaj repozitorijum sadrzi osnovne elemente mini web prodavnice pripremljene za kasniju 
-realizaciju u WordPress/WooCommerce okruzenju.
+realizaciju u Shopify okruzenju.
 Ivan Lozajic Petar Tonic Lazar Radosavljevic 
