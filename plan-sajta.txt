@@ -1,0 +1,81 @@
+Možeš ovo da staviš u `.txt` fajl kao plan sajta:
+
+PLAN WEB SAJTA – TogetherCaffe
+
+Naziv sajta:
+TogetherCaffe
+
+Opis sajta:
+TogetherCaffe je online prodavnica specijalizovana za prodaju kvalitetne kafe i proizvoda od kafe. Sajt omogućava korisnicima pregled proizvoda, informisanje o brendu i jednostavan kontakt sa prodavcem.
+
+Struktura sajta:
+
+1. Početna strana (Home)
+
+* Kratak uvod o prodavnici TogetherCaffe
+* Istaknuti (preporučeni) proizvodi
+* Baner sa promotivnom porukom
+* Dugme za pregled kompletnog kataloga
+
+2. Katalog proizvoda (Catalog)
+   Sadrži sve proizvode koji se prodaju na sajtu.
+
+Kategorije proizvoda:
+
+a) Mlevena kafa
+
+* Espresso Blend
+* Arabica Premium
+* Gold Roast
+* Classic Coffee
+* Strong Morning
+
+b) Kafa u zrnu
+
+* Uganda Premium Beans
+* Dark Roast Beans
+* Brazil Selection
+* Espresso Beans
+* House Blend Beans
+
+c) Instant kafa
+
+* Classic Instant
+* Gold Instant
+* Strong Instant
+* Vanilla Instant
+* Cappuccino Mix
+
+Za svaki proizvod prikazani su:
+
+* Naziv proizvoda
+* Slika proizvoda
+* Cena
+* Kratak opis
+* Dugme za kupovinu
+
+3. O nama (About Us)
+
+* Priča o nastanku TogetherCaffe
+* Misija i vizija kompanije
+* Posvećenost kvalitetu kafe
+* Informacije o poreklu proizvoda
+
+4. Kontakt (Contact)
+
+* Kontakt forma
+* Email adresa
+* Broj telefona
+* Adresa kompanije
+* Radno vreme
+
+Cilj sajta:
+Omogućiti korisnicima jednostavnu kupovinu kvalitetne kafe, pregled svih proizvoda i upoznavanje sa brendom TogetherCaffe kroz moderan i pregledan web sajt.
+
+Tehnologija:
+
+* Shopify platforma
+* Responsive dizajn za mobilne telefone, tablete i računare
+* Online katalog proizvoda
+
+Ovaj tekst izgleda dovoljno profesionalno za predaju kao dokumentacija projekta.
