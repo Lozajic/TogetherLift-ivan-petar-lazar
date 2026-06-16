@@ -1,0 +1,36 @@
+BROWSER TASK 10 – Analiza konkurencije i testiranje responzivnosti
+
+Naziv analiziranog sajta:
+Kafe Centrala (kafecentrala.rs)
+
+Organizacija sajta:
+Sajt je organizovan pregledno i moderno. Na vrhu se nalazi logo, navigacioni meni, pretraga i korpa. Proizvodi su raspoređeni po kategorijama, a korisnik može lako da pronađe željeni proizvod. Na početnoj stranici nalaze se promotivne sekcije i informacije o kompaniji.
+
+Boje koje koristi:
+Dominantne boje su bela, narandžasta i braon, koje asociraju na kafu i toplu atmosferu.
+
+Korpa i pretraga:
+Sajt poseduje funkciju korpe za kupovinu i polje za pretragu proizvoda, što omogućava jednostavniju navigaciju i kupovinu.
+
+Raspored proizvoda:
+Proizvodi su organizovani u kategorije i prikazani u mrežnom rasporedu sa slikom, nazivom i cenom proizvoda.
+
+Slike:
+Koriste se kvalitetne fotografije proizvoda i promotivne slike vezane za kafu.
+
+Dugmad:
+Dugmad su jasno vidljiva i jednostavna za korišćenje, sa naglašenim bojama koje privlače pažnju korisnika.
+
+Testiranje responzivnosti:
+
+Telefon:
+Navigacioni meni se pretvara u "hamburger" meni. Sadržaj se prilagođava širini ekrana i ostaje čitljiv.
+
+Tablet:
+Elementi su raspoređeni u više kolona nego na telefonu, ali manje nego na desktop računaru. Navigacija je jednostavna i pregledna.
+
+Desktop:
+Prikazuje se kompletan raspored sajta sa svim elementima u punoj veličini.
+
+Zaključak:
+Sajt je dobro optimizovan za mobilne uređaje i pregledan je na svim veličinama ekrana. Korisničko iskustvo ostaje kvalitetno bez obzira da li se pristupa sa telefona, tableta ili desktop računara.
